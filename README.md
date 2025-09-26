@@ -6,7 +6,7 @@ For more information about Amp visit the [Amp manual](https://ampcode.com/manual
 
 See the [DEMO.md](DEMO.md) for more information about how to effectively use this repo for an array of different demo purposes ranging from fixes an issue with a PR to advanced refactors.
 
-<img width="1658" height="993" alt="image" src="https://github.com/user-attachments/assets/c60855c7-b843-4779-8dc0-3a3acf67f35f" />
+![The Glazed Touch Homepage](assets/images/glazed-touch-homepage.png)
 
 ## Project Structure
 
