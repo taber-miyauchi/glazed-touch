@@ -1,0 +1,38 @@
+import { Flex, Heading, Link, VStack } from "@chakra-ui/react";
+
+import ContactDetails from "../ContactDetails";
+
+const Footer = () => {
+  return (
+    <Flex
+      as="footer"
+      display={{ base: "none", smallTablet: "flex" }}
+      bg="appBlue.800"
+      color="white"
+      pl={{ base: 16, md: "236px" }}
+      pr={{ base: 16, md: 8 }}
+      py={5}
+      direction={{ base: "column", sm: "row" }}
+      align={{ base: "center", sm: "flex-start" }}
+    >
+      <Flex mr={{ base: 0, sm: 32, md: 44 }} mb={8}>
+        <Flex direction="column" mr={28}>
+          <Heading as="h6" fontSize="md" mb={6} textTransform="uppercase">
+            Pages
+          </Heading>
+          <VStack spacing={3} fontSize="sm" align="initial">
+            <Link>Home</Link>
+            <Link>Product</Link>
+            <Link>Pricing</Link>
+            <Link>About</Link>
+            <Link>Contact</Link>
+          </VStack>
+        </Flex>
+
+      </Flex>
+      <ContactDetails />
+    </Flex>
+  );
+};
+
+export default Footer;

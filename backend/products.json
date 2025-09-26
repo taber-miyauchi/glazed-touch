@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Handcrafted Ceramic Coffee Mug Set",
+    "price": 49.95,
+    "description": "Set of 2 artisan-made ceramic coffee mugs with unique glazing. Each mug features a comfortable handle and holds 12oz. Perfect for your morning coffee ritual.",
+    "category": "kitchenware",
+    "image": "local_image"
+  },
+  {
+    "id": 2,
+    "title": "Large Terracotta Garden Planter",
+    "price": 89.99,
+    "description": "Beautiful large terracotta planter with drainage hole. Hand-thrown and fired to perfection. Ideal for indoor plants or outdoor gardens.",
+    "category": "planters",
+    "image": "local_image_2"
+  },
+  {
+    "id": 3,
+    "title": "Blue Glazed Ceramic Bowl",
+    "price": 34.50,
+    "description": "Stunning blue-glazed ceramic serving bowl, perfect for salads, pasta, or as a decorative piece. Food-safe and dishwasher friendly.",
+    "category": "serveware",
+    "image": "local_image_3"
+  },
+  {
+    "id": 4,
+    "title": "Rustic Pottery Vase",
+    "price": 67.00,
+    "description": "Hand-thrown rustic pottery vase with natural earth tones. Perfect for fresh flowers or as a standalone decorative piece. Each piece is unique.",
+    "category": "decorative",
+    "image": "local_image_4"
+  },
+  {
+    "id": 5,
+    "title": "Ceramic Dinner Plate Set",
+    "price": 95.00,
+    "description": "Set of 4 handmade ceramic dinner plates with speckled glaze finish. Microwave and dishwasher safe. Perfect for everyday dining or special occasions.",
+    "category": "dinnerware",
+    "image": "local_image_5"
+  },
+  {
+    "id": 6,
+    "title": "Small Succulent Pots Set",
+    "price": 28.99,
+    "description": "Set of 3 small ceramic pots perfect for succulents or small plants. Each pot includes a drainage hole and saucer. Modern white finish.",
+    "category": "planters",
+    "image": "local_image_6"
+  },
+  {
+    "id": 7,
+    "title": "Artisan Tea Cup & Saucer",
+    "price": 42.50,
+    "description": "Elegant handmade tea cup and saucer set with delicate floral pattern. Perfect for afternoon tea service. Holds 8oz.",
+    "category": "kitchenware",
+    "image": "local_image_7"
+  },
+  {
+    "id": 8,
+    "title": "Modern Ceramic Fruit Bowl",
+    "price": 56.75,
+    "description": "Contemporary ceramic fruit bowl with clean lines and matte finish. Perfect centerpiece for kitchen counter or dining table. Food-safe glaze.",
+    "category": "serveware",
+    "image": "local_image_8"
+  },
+  {
+    "id": 9,
+    "title": "Hand-painted Ceramic Pitcher",
+    "price": 78.99,
+    "description": "Beautiful hand-painted ceramic pitcher with floral motifs. Perfect for serving water, juice, or as a decorative vase. Holds 32oz.",
+    "category": "serveware",
+    "image": "local_image_9"
+  },
+  {
+    "id": 10,
+    "title": "Stoneware Cookie Jar",
+    "price": 65.00,
+    "description": "Classic stoneware cookie jar with airtight lid. Features traditional pottery styling with modern functionality. Perfect for keeping cookies fresh.",
+    "category": "kitchenware",
+    "image": "local_image_10"
+  },
+  {
+    "id": 11,
+    "title": "Large Ceramic Mixing Bowl",
+    "price": 45.99,
+    "description": "Professional-grade ceramic mixing bowl with pouring spout. Perfect for baking and food preparation. Easy-grip rim and dishwasher safe.",
+    "category": "kitchenware",
+    "image": "local_image_11"
+  },
+  {
+    "id": 12,
+    "title": "Decorative Ceramic Wall Tiles",
+    "price": 89.50,
+    "description": "Set of 6 handmade decorative ceramic tiles with geometric patterns. Perfect for kitchen backsplash or bathroom accent wall. Each tile is 6x6 inches.",
+    "category": "decorative",
+    "image": "local_image_12"
+  },
+  {
+    "id": 13,
+    "title": "Handthrown Pottery Wine Bottle Holder",
+    "price": 54.99,
+    "description": "Unique handthrown pottery wine bottle holder that showcases your favorite wine while adding artistic flair to your table or bar.",
+    "category": "serveware",
+    "image": "local_image_13"
+  },
+  {
+    "id": 14,
+    "title": "Ceramic Soap Dispenser",
+    "price": 39.95,
+    "description": "Elegant ceramic soap dispenser with pump mechanism. Perfect for kitchen or bathroom. Features a smooth glaze finish and holds 12oz of liquid soap.",
+    "category": "bathroom",
+    "image": "local_image_14"
+  },
+  {
+    "id": 15,
+    "title": "Artisan Ceramic Candlestick Holders",
+    "price": 62.00,
+    "description": "Pair of handmade ceramic candlestick holders with organic shapes. Perfect for creating ambient lighting. Fits standard taper candles.",
+    "category": "decorative",
+    "image": "local_image_15"
+  },
+  {
+    "id": 16,
+    "title": "Large Pottery Serving Platter",
+    "price": 85.75,
+    "description": "Stunning large pottery serving platter perfect for entertaining. Hand-glazed with unique patterns that make each piece one-of-a-kind.",
+    "category": "serveware",
+    "image": "local_image_16"
+  },
+  {
+    "id": 17,
+    "title": "Ceramic Salt & Pepper Shakers",
+    "price": 25.99,
+    "description": "Cute ceramic salt and pepper shaker set with cork stoppers. Features contrasting glazes and modern design. Perfect for everyday use.",
+    "category": "kitchenware",
+    "image": "local_image_17"
+  },
+  {
+    "id": 18,
+    "title": "Handmade Ceramic Bird Bath",
+    "price": 125.00,
+    "description": "Beautiful handmade ceramic bird bath perfect for your garden. Weather-resistant glaze and artistic design that attracts birds while adding beauty to outdoor spaces.",
+    "category": "garden",
+    "image": "local_image_18"
+  },
+  {
+    "id": 19,
+    "title": "Ceramic Spoon Rest",
+    "price": 18.50,
+    "description": "Practical ceramic spoon rest with beautiful glaze finish. Keeps your counters clean while cooking. Dishwasher safe and heat resistant.",
+    "category": "kitchenware",
+    "image": "local_image_19"
+  },
+  {
+    "id": 20,
+    "title": "Large Garden Pottery Urn",
+    "price": 149.99,
+    "description": "Impressive large garden urn made from durable stoneware. Perfect as a statement piece for landscaping or as a large planter for trees and shrubs.",
+    "category": "planters",
+    "image": "local_image_20"
+  }
+]
