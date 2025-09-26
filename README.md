@@ -52,7 +52,7 @@ See the [DEMO.md](DEMO.md) for more information about how to effectively use thi
 Clone the project and verify prerequisites:
 
 ```bash
-git clone https://github.com/sourcegraph/amp-demo.git
+git clone https://github.com/taber-miyauchi/glazed-touch.git
 cd amp-demo
 
 # Verify you have required tools
@@ -186,4 +186,4 @@ just logs-follow      # Follow both logs live (Ctrl+C to exit)
 
 ### Source
 
-Based on the [ecommerce-demo repo](https://github.com/ViaxCo/ecommerce-demo).
+Based on the [ecommerce-demo repo](https://github.com/ViaxCo/ecommerce-demo) and [sourcegraph-demo repo](https://github.com/sourcegraph/ecommerce-app)
